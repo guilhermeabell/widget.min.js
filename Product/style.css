@@ -1,7 +1,8 @@
+
 @import "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
 #bot {
   text-align: center;
-  background-image: url(https://files.directtalk.com.br/1.0/api/file/public/ddcf30de-de49-4aa3-89ee-5be46c4fbb45/content-inline);
+  background-image: url("https://files.directtalk.com.br/1.0/api/file/public/ddcf30de-de49-4aa3-89ee-5be46c4fbb45/content-inline");
   visibility: visible;
   position: fixed;
   z-index: 999999999;

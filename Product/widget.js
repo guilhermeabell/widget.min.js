@@ -21,12 +21,16 @@
   var url =
     "https://dtbot.directtalk.com.br/1.0/staticbot/dist/js/dtbot.js?token=10cb1aae-5882-469b-938f-6b4b89fbcf80&widget=true&top=40&text=Alguma%20d%C3%BAvida%3F&textcolor=ffffff&bgcolor=4E1D3A&from=bottomRight";
 
-  var link = document.createElement("link");
+  let link = document.createElement("link");
+
   link.rel = "stylesheet";
+
   link.type = "text/css";
-  //   link.href = "style.css";
-  link.href =
-    "https://www7.directtalk.com.br/clientes/custom/Product/style.css";
+
+  link.href = "style.css";
+
+  // link.href = "https://www7.directtalk.com.br/clientes/custom/Product/style.css";
+  
   document.body.appendChild(link);
 
   var script = document.createElement("script");

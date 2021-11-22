@@ -1,11 +1,6 @@
 module.exports = function (grunt) {
 
   grunt.initConfig({
-    jshint: {
-       dist: {
-         src: ['Product/**/*.js']
-       }
-    },
     uglify: {
         scripts: {
             src: ['Product/widget.js'],
