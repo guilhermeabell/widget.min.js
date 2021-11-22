@@ -67,10 +67,8 @@
         //MUDAR AQUI PARA O ANTIGO E NOVO!
         customLauncher.style.visibility = "visible";
       };
-
       clearInterval(refreshIntervalId);
     }
   };
-
   var refreshIntervalId = setInterval(isBotLoaded, 120);
 })();
