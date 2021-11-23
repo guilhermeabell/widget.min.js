@@ -1,7 +1,5 @@
-# Script para facilitar o processo manual de minificar a estrutura do produto.
+## Script para facilitar o processo manual de minificar a estrutura do produto.
 
-
-# getkcal
 
 Estes são os arquivos iniciais do projeto **widger.min.js**.
 
