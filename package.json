@@ -11,7 +11,6 @@
   "license": "ISC",
   "devDependencies": {
     "grunt": "^1.4.1",
-    "grunt-contrib-jshint": "^3.1.1",
     "grunt-contrib-uglify": "^5.0.1"
   }
 }
