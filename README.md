@@ -1,6 +1,5 @@
 ## Script para facilitar o processo manual de minificar a estrutura do produto.
 
-
 Estes são os arquivos iniciais do projeto **widger.min.js**.
 
 ## Instalação
@@ -8,7 +7,6 @@ Estes são os arquivos iniciais do projeto **widger.min.js**.
 Rodar o comando global em seu terminal `npm install -g grunt-cli`.
 
 Após isso rodar o comando do loader dentro do próprio projeto como dependência de desenvolvimento `npm install grunt-contrib-uglify --save-dev`
-
 
 
 Você precisará ter o [NPM](https://www.npmjs.com/) instalado na sua máquina, e, após isso, clonar este repositório:
